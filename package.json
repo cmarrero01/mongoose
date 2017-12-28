@@ -23,7 +23,7 @@
     "bson": "~1.0.4",
     "kareem": "2.0.0-rc5",
     "lodash.get": "4.4.2",
-    "mongodb": "3.0.1",
+    "mongodb": "git+https://github.com/cmarrero01/node-mongodb-native.git",
     "mongoose-legacy-pluralize": "1.0.1",
     "mpath": "0.3.0",
     "mquery": "3.0.0-rc0",
